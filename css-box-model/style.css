@@ -4,8 +4,22 @@ body {
 
 .section-one {
     width: 200px;
-    background: deeppink;
-    border: 5px solid black;
+    /* background: deeppink; */
+    border: 1px solid black;
+    background-image: url(https://d1jyxxz9imt9yb.cloudfront.net/medialib/3615/image/s768x1300/MC_20180821_FRA_BeautyShots_030_334609_reduced.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+    border-style: solid;
+    border-width: 10px;
+    border-bottom-color: firebrick;
+    border-top-color: yellow;
+    border-right-color: green;
+    border-left-color: blue;
+    padding: 15px;
+    margin: 30px;
 }
 
 .section-two {
