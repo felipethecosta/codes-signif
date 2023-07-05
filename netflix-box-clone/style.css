@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#heading {
+    background: rgba(0, 0, 0, 0.7);
+    }
+
+#heading div {
+    width: 90%;
+    display: flex; /* Flex: Ele meio que gere a criação de colunas, juntamente parecido com o grid. */
+    /* background-color: #e50914; */
+    justify-content: space-between;
+    margin: 0 auto;
+}  
+
+.entrance {
+     padding: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+#heading h1 {
+    padding: 20px 80px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#heading a {
+    color: #ffff;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/ce221d7a-8901-41d9-b726-3ea2efe3a650/99295630-aec3-4f66-b9e0-9eba190afdf8/BR-pt-20230703-popsignuptwoweeks-perspective_alpha_website_medium.jpg);
+    background-size: cover;
+}

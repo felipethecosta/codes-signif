@@ -1,0 +1,13 @@
+body {
+    background: #fff;
+}
+
+.section-one {
+    width: 200px;
+    background: deeppink;
+    border: 5px solid black;
+}
+
+.section-two {
+   background: cyan;
+}

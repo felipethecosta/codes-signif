@@ -1,0 +1,9 @@
+h1 {
+    background: red; /* Background do fundo do que você está puxando. */
+    width: 120px;    /* A largura o widht. */
+    height: 120px;   /* A altura o height. */
+}
+
+h2 {
+    background: yellow;
+}
